@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ric6500@gmail.com
+	name = Riccardo Petrucci
